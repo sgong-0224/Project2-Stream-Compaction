@@ -12,7 +12,7 @@ namespace StreamCompaction {
             return timer;
         }
         // TODO: __global__
-
+        
         /**
          * Performs prefix-sum (aka scan) on idata, storing the result into odata.
          */
